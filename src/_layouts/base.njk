@@ -44,5 +44,27 @@
       </div>
     </div>
   </footer>
+
+  <script>
+    // Add copy buttons to code blocks
+    document.querySelectorAll('pre[class*="language-"]').forEach(function(pre) {
+      const button = document.createElement('button');
+      button.className = 'copy-button';
+      button.textContent = 'Copy';
+      button.addEventListener('click', function() {
+        const code = pre.querySelector('code');
+        navigator.clipboard.writeText(code.textContent).then(function() {
+          button.textContent = 'Copied!';
+          button.classList.add('copied');
+          setTimeout(function() {
+            button.textContent = 'Copy';
+            button.classList.remove('copied');
+          }, 2000);
+        });
+      });
+      pre.style.position = 'relative';
+      pre.appendChild(button);
+    });
+  </script>
 </body>
 </html>

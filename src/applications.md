@@ -42,7 +42,7 @@ R package for analyzing Global Forest Change data from Hansen et al. Facilitates
 - Calculate forest loss and gain statistics
 - Generate annual forest cover maps
 
-### teamlucc
+### teamlucc (no longer maintained)
 
 **Primary Developer** | [GitHub](https://github.com/azvoleff/teamlucc)
 
@@ -54,19 +54,19 @@ Collection of R tools for analyzing satellite imagery and performing automated i
 - Automated image classification workflows
 - Time series analysis
 
-### PyABM
+### PyABM (no longer maintained)
 
 **Primary Developer** | [GitHub](https://github.com/azvoleff/pyabm)
 
 Python framework for agent-based modeling. Provides a foundation for building agent-based models with spatial components.
 
-### ChitwanABM
+### ChitwanABM (no longer maintained)
 
 **Primary Developer** | [GitHub](https://github.com/azvoleff/chitwanabm)
 
 Agent-based model of population and land use dynamics in the Chitwan Valley, Nepal. Developed as part of my dissertation research to explore feedbacks between demographic decision-making and land cover change.
 
-## wrspathrow
+### wrspathrow (no longer maintained)
 
 **Primary Developer** | [CRAN](https://cran.r-project.org/package=wrspathrow) | [GitHub](https://github.com/azvoleff/wrspathrow)
 
