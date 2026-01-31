@@ -1,0 +1,13 @@
+{
+  "name": "azvoleff-website",
+  "version": "1.0.0",
+  "description": "Alex Zvoleff's personal website",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "dev": "eleventy --serve --watch"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

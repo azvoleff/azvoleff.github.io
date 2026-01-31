@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: Blog
+---
+<div class="container">
+  <h1>Blog</h1>
+  <p class="blog-intro">Posts on remote sensing, spatial analysis, R programming, and related topics.</p>
+  
+  <div class="post-list blog-list">
+    {%- for post in collections.posts -%}
+    <article class="post-preview">
+      <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+      <time datetime="{{ post.date | dateFormat }}">{{ post.date | dateFormat }}</time>
+      {%- if post.data.description -%}
+      <p>{{ post.data.description }}</p>
+      {%- endif -%}
+    </article>
+    {%- endfor -%}
+  </div>
+</div>
