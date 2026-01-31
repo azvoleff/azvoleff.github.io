@@ -5,7 +5,7 @@ title: About
 
 # About Me
 
-I am Vice President of Science for Impact in the Betty and Gordon Moore Center for Science at [Conservation International](https://www.conservation.org/science).
+I am Vice President of Science for Impact in the [Betty and Gordon Moore Center for Science and Solutions](https://www.conservation.org/betty-and-gordon-moore-center-for-science-and-solutions) at [Conservation International](https://www.conservation.org/science).
 
 I work on problems at the intersection of climate, population, and land use and land cover change research, using a mixture of remote sensing, spatial modeling and statistics, and social survey techniques to investigate relationships between human and environmental change.
 
