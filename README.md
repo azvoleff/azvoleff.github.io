@@ -72,16 +72,6 @@ Your content here...
 
 Posts are automatically sorted by date and displayed on the blog page.
 
-## Deployment
-
-The site automatically deploys to GitHub Pages when changes are pushed to the `main` branch. The GitHub Actions workflow handles building and deploying the site.
-
-### GitHub Pages Setup
-
-1. Go to your repository Settings → Pages
-2. Under "Build and deployment", select "GitHub Actions" as the source
-3. Push to the `main` branch to trigger a deployment
-
 ## License
 
 Content © Alex Zvoleff. All rights reserved.
