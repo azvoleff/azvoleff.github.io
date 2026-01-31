@@ -24,7 +24,7 @@ I work on problems at the intersection of climate, population, and land use and 
 **Vice President, Science for Impact** (July 2024 – Present)  
 Betty and Gordon Moore Center for Science
 
-**Senior Director of Resilience Science** (July 2018 – Present)  
+**Senior Director of Resilience Science** (July 2018 – July 2024)  
 Betty and Gordon Moore Center for Science
 
 **Senior Director of Data Science** (March 2018 – June 2018)  
